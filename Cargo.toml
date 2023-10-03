@@ -1,0 +1,11 @@
+[package]
+name = "laurel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+arraystring = "0.3.0"
+glam = "0.24.2"
+pixels = "0.13.0"
+winit = "0.28.7"
+winit_input_helper = "0.14.1"
